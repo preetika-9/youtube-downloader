@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+}
+.main{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 500px;
+    height: 250px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+input{
+    width: 80%;
+    height: 25px;
+    padding: 6px 10px;
+    margin: 8px 2px;
+    border-radius: 20px;
+    border: 1px solid red;
+}
+
+button{
+    background-color: red;
+    border: red;
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+    color: white;
+}
+.icon{
+    position: relative;
+}
+
